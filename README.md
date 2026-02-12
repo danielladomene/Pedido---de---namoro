@@ -115,7 +115,14 @@ button {
     <div class="container">
         <img src="foto-casal.jpg" alt="Nossa Foto">
         
-        <h1>Quer namorar comigo?</h1>
+        <h1> Eu n sou a pessoa mais legal do mundo, e tenho muitos defeitos, mais quero mudar oq puder para te ver feliz, e oq não conseguir mudar espero que você entenda que estou tentando, eu sou completamente apaixonada por vc, não te conheço pessoalmente mais eu sei que o amor que sinto por vc ultrapassa qualquer distância, me desculpa se algum dia fizer algo que vc não goste, mais saiba que foi tentando acertar. 
+E tentando te fazer a mulher mais feliz no mundo.
+ Eu já te amo tanto. Obrigada por existir e obrigada por estar aqui, obrigada por querer dividir a vida e eu sou loucamente apaixonada por vc e que espero que cada dia vire um amor incondicional❤️.
+ I love you.
+ 
+Quer namorar comigo?
+
+</h1>
 
         <div class="buttons">
             <button id="btn-sim" onclick="aceitou()">SIM!</button>
